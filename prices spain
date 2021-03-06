@@ -1,0 +1,75 @@
+<PreciosEESSTerrestres xmlns="http://schemas.datacontract.org/2004/07/ServiciosCarburantes">
+  <Fecha>Contenido de la cadena</Fecha>
+  <ListaEESSPrecio>
+    <EESSPrecio>
+      <C.P.>Contenido de la cadena</C.P.>
+      <Dirección>Contenido de la cadena</Dirección>
+      <Horario>Contenido de la cadena</Horario>
+      <Latitud>Contenido de la cadena</Latitud>
+      <Localidad>Contenido de la cadena</Localidad>
+      <Longitud_x0020__x0028_WGS84_x0029_>Contenido de la cadena</Longitud_x0020__x0028_WGS84_x0029_>
+      <Margen>Contenido de la cadena</Margen>
+      <Municipio>Contenido de la cadena</Municipio>
+      <Precio_x0020_Biodiesel>Contenido de la cadena</Precio_x0020_Biodiesel>
+      <Precio_x0020_Bioetanol>Contenido de la cadena</Precio_x0020_Bioetanol>
+      <Precio_x0020_Gas_x0020_Natural_x0020_Comprimido>Contenido de la cadena</Precio_x0020_Gas_x0020_Natural_x0020_Comprimido>
+      <Precio_x0020_Gas_x0020_Natural_x0020_Licuado>Contenido de la cadena</Precio_x0020_Gas_x0020_Natural_x0020_Licuado>
+      <Precio_x0020_Gases_x0020_licuados_x0020_del_x0020_petróleo>Contenido de la cadena</Precio_x0020_Gases_x0020_licuados_x0020_del_x0020_petróleo>
+      <Precio_x0020_Gasoleo_x0020_A>Contenido de la cadena</Precio_x0020_Gasoleo_x0020_A>
+      <Precio_x0020_Gasoleo_x0020_B>Contenido de la cadena</Precio_x0020_Gasoleo_x0020_B>
+      <Precio_x0020_Gasoleo_x0020_Premium>Contenido de la cadena</Precio_x0020_Gasoleo_x0020_Premium>
+      <Precio_x0020_Gasolina_x0020_95_x0020_E10>Contenido de la cadena</Precio_x0020_Gasolina_x0020_95_x0020_E10>
+      <Precio_x0020_Gasolina_x0020_95_x0020_E5>Contenido de la cadena</Precio_x0020_Gasolina_x0020_95_x0020_E5>
+      <Precio_x0020_Gasolina_x0020_95_x0020_E5_x0020_Premium>Contenido de la cadena</Precio_x0020_Gasolina_x0020_95_x0020_E5_x0020_Premium>
+      <Precio_x0020_Gasolina_x0020_98_x0020_E10>Contenido de la cadena</Precio_x0020_Gasolina_x0020_98_x0020_E10>
+      <Precio_x0020_Gasolina_x0020_98_x0020_E5>Contenido de la cadena</Precio_x0020_Gasolina_x0020_98_x0020_E5>
+      <Precio_x0020_Hidrogeno>Contenido de la cadena</Precio_x0020_Hidrogeno>
+      <Provincia>Contenido de la cadena</Provincia>
+      <Remisión>Contenido de la cadena</Remisión>
+      <Rótulo>Contenido de la cadena</Rótulo>
+      <Tipo_x0020_Venta>Contenido de la cadena</Tipo_x0020_Venta>
+      <_x0025__x0020_BioEtanol>Contenido de la cadena</_x0025__x0020_BioEtanol>
+      <_x0025__x0020_Éster_x0020_metílico>Contenido de la cadena</_x0025__x0020_Éster_x0020_metílico>
+      <IDEESS>Contenido de la cadena</IDEESS>
+      <IDMunicipio>Contenido de la cadena</IDMunicipio>
+      <IDProvincia>Contenido de la cadena</IDProvincia>
+      <IDCCAA>Contenido de la cadena</IDCCAA>
+    </EESSPrecio>
+    <EESSPrecio>
+      <C.P.>Contenido de la cadena</C.P.>
+      <Dirección>Contenido de la cadena</Dirección>
+      <Horario>Contenido de la cadena</Horario>
+      <Latitud>Contenido de la cadena</Latitud>
+      <Localidad>Contenido de la cadena</Localidad>
+      <Longitud_x0020__x0028_WGS84_x0029_>Contenido de la cadena</Longitud_x0020__x0028_WGS84_x0029_>
+      <Margen>Contenido de la cadena</Margen>
+      <Municipio>Contenido de la cadena</Municipio>
+      <Precio_x0020_Biodiesel>Contenido de la cadena</Precio_x0020_Biodiesel>
+      <Precio_x0020_Bioetanol>Contenido de la cadena</Precio_x0020_Bioetanol>
+      <Precio_x0020_Gas_x0020_Natural_x0020_Comprimido>Contenido de la cadena</Precio_x0020_Gas_x0020_Natural_x0020_Comprimido>
+      <Precio_x0020_Gas_x0020_Natural_x0020_Licuado>Contenido de la cadena</Precio_x0020_Gas_x0020_Natural_x0020_Licuado>
+      <Precio_x0020_Gases_x0020_licuados_x0020_del_x0020_petróleo>Contenido de la cadena</Precio_x0020_Gases_x0020_licuados_x0020_del_x0020_petróleo>
+      <Precio_x0020_Gasoleo_x0020_A>Contenido de la cadena</Precio_x0020_Gasoleo_x0020_A>
+      <Precio_x0020_Gasoleo_x0020_B>Contenido de la cadena</Precio_x0020_Gasoleo_x0020_B>
+      <Precio_x0020_Gasoleo_x0020_Premium>Contenido de la cadena</Precio_x0020_Gasoleo_x0020_Premium>
+      <Precio_x0020_Gasolina_x0020_95_x0020_E10>Contenido de la cadena</Precio_x0020_Gasolina_x0020_95_x0020_E10>
+      <Precio_x0020_Gasolina_x0020_95_x0020_E5>Contenido de la cadena</Precio_x0020_Gasolina_x0020_95_x0020_E5>
+      <Precio_x0020_Gasolina_x0020_95_x0020_E5_x0020_Premium>Contenido de la cadena</Precio_x0020_Gasolina_x0020_95_x0020_E5_x0020_Premium>
+      <Precio_x0020_Gasolina_x0020_98_x0020_E10>Contenido de la cadena</Precio_x0020_Gasolina_x0020_98_x0020_E10>
+      <Precio_x0020_Gasolina_x0020_98_x0020_E5>Contenido de la cadena</Precio_x0020_Gasolina_x0020_98_x0020_E5>
+      <Precio_x0020_Hidrogeno>Contenido de la cadena</Precio_x0020_Hidrogeno>
+      <Provincia>Contenido de la cadena</Provincia>
+      <Remisión>Contenido de la cadena</Remisión>
+      <Rótulo>Contenido de la cadena</Rótulo>
+      <Tipo_x0020_Venta>Contenido de la cadena</Tipo_x0020_Venta>
+      <_x0025__x0020_BioEtanol>Contenido de la cadena</_x0025__x0020_BioEtanol>
+      <_x0025__x0020_Éster_x0020_metílico>Contenido de la cadena</_x0025__x0020_Éster_x0020_metílico>
+      <IDEESS>Contenido de la cadena</IDEESS>
+      <IDMunicipio>Contenido de la cadena</IDMunicipio>
+      <IDProvincia>Contenido de la cadena</IDProvincia>
+      <IDCCAA>Contenido de la cadena</IDCCAA>
+    </EESSPrecio>
+  </ListaEESSPrecio>
+  <Nota>Contenido de la cadena</Nota>
+  <ResultadoConsulta>Contenido de la cadena</ResultadoConsulta>
+</PreciosEESSTerrestres>
